@@ -1,0 +1,26 @@
+[
+    {
+      "id": "6433cd8cfe839ecbc412df79",
+      "img": "https://www.zambianguardian.com/wp-content/uploads/2021/08/the-difference-between-accounting-and-finance.jpg",
+      "title": "Account & Finance",
+      "jobs": "300 Jobs Available"
+    },
+    {
+      "id": "64350ad9eafe50b2a3112dc1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshT2_AFteKGM9olRFuws2o4hjdOl9T17WZw&usqp=CAU",
+      "title": "Creative Design",
+      "jobs": "100+ Jobs Available"
+    },
+    {
+      "id": "64350ad9b8914c40778517b7",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHiNT1qBZmsyrKnBQ0foh5O5bWvis4k3uIQ&usqp=CAU",
+      "title": "Marketing & Sales",
+      "jobs": "150 Jobs Available"
+    },
+    {
+      "id": "64350ad907d80e95ce8d012d",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAlkJoSPFlnc0ifPZpXGo4ZR3wmnAcK4FmA&usqp=CAU",
+      "title": "Engineering Job",
+      "jobs": "224 Jobs Available"
+    }
+]

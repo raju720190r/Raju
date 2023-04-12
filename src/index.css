@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    max-width: 1240px;
+    width: 100%;
+    margin: 0 auto;
+}
+/* .btn{
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 10px;
+    background-color:#7E90FE;
+} */
